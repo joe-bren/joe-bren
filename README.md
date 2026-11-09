@@ -29,7 +29,7 @@ i coach inside of [AI Frontrunners](https://timchao.ai) w/ [tim chao](https://x.
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nextjs,react,tailwind,supabase,postgres,vercel,aws,render,claude,pnpm&theme=dark" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joe-bren/joe-bren/output/streak.svg" />
+  <img src="https://raw.githubusercontent.com/joe-bren/joe-bren/output/streak.svg?v=2" />
 </p>
 
 <p align="center">
